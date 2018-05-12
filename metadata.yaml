@@ -1,0 +1,33 @@
+_repo: The-First-Discovery-of-Australia-and-New-Guinea--13-Being-The-Narrative-of-Portuguese-and-Spa__17022
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingridge, George
+    birthdate: 1847
+    deathdate: 1931
+    gutenberg_agent_id: '7095'
+    url: http://www.gutenberg.org/2009/agents/7095
+    wikipedia: http://en.wikipedia.org/wiki/George_Collingridge
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Discovery and exploration -- Portuguese'
+- !lcsh 'Oceania -- Discovery and exploration -- Spanish'
+- !lcsh 'Australia -- Discovery and exploration -- Portuguese'
+- !lcsh 'Australia -- Discovery and exploration -- Spanish'
+- !lcc 'DU'
+title: "The First Discovery of Australia and New Guinea\r\nBeing The Narrative of\
+  \ Portuguese and Spanish Discoveries in the Australasian Regions, between the Years\
+  \ 1492-1606, with Descriptions of their Old Charts."
+url: http://www.gutenberg.org/ebooks/17022

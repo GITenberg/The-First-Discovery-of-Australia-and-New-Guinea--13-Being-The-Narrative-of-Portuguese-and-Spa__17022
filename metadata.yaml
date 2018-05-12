@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7095
     wikipedia: http://en.wikipedia.org/wiki/George_Collingridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17022#The-First-Discovery-of-Australia-and-New-Guinea--13-Being-The-Narrative-of-Portuguese-and-Spa_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2005-11-07'
 gutenberg_type: Text
